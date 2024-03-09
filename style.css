@@ -48,6 +48,8 @@ ul, ol{
 .contenedorSubmenu li:hover > ul{
     display: block;
 }
-.miniMenu{
-    
+#piePagina{
+    background-color: rgb(90, 174, 212);
+    font-size: large;
+    text-align: center;
 }
