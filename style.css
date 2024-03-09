@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.contenedorSubmenu{
+    background-color: rgb(188, 219, 205);
+    width: 100%;
+    height: auto;
+}
+#submenu{
+    text-decoration: none;
+    font-family: Arial, sans-serif; 
+    color: rgb(1, 1, 92); 
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+    padding: 10px;
+}
+#logo{
+    width: 25%;
+    margin: 3% 0;   
+}
+#fondoPagina{
+    width:  100%;
+    height:  75vh;
+}
