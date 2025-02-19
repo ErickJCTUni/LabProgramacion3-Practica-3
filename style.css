@@ -18,6 +18,7 @@ body{
     height: auto;
     padding: 10px 15px;
     display: block;
+    position: relative; /*TO-DO*/
 
 }
 #menu{
