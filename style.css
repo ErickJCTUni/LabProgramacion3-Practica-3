@@ -42,7 +42,7 @@ ul, ol{
     list-style: none;
 }
 .contenedorSubmenu li a:hover{
-    background-color: rgb(59, 118, 145)
+    background-color: rgb(66, 176, 219)
 }
 .contenedorSubmenu > li{
     float: left;
@@ -59,6 +59,7 @@ ul, ol{
    
     font-size: large;
     text-align:left;
+    position: fixed;
 }
 #piePagina p{
     font-family: Arial, Helvetica, sans-serif;
